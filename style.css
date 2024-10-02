@@ -1,0 +1,8 @@
+#car-image{
+    width: 400px;
+    object-fit: contain;
+}
+
+#hide-button{
+    font-size: 2rem;;
+}
